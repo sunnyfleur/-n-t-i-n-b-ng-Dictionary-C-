@@ -1,0 +1,22 @@
+D:\Visual Studio\pls\pls\bin\Debug\pls.exe.config
+D:\Visual Studio\pls\pls\bin\Debug\pls.exe
+D:\Visual Studio\pls\pls\bin\Debug\pls.pdb
+D:\Visual Studio\pls\pls\obj\Debug\pls.csproj.AssemblyReference.cache
+D:\Visual Studio\pls\pls\obj\Debug\pls.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\pls\pls\obj\Debug\pls.Dictionary.resources
+D:\Visual Studio\pls\pls\obj\Debug\pls.Properties.Resources.resources
+D:\Visual Studio\pls\pls\obj\Debug\pls.csproj.GenerateResource.cache
+D:\Visual Studio\pls\pls\obj\Debug\pls.csproj.CoreCompileInputs.cache
+D:\Visual Studio\pls\pls\obj\Debug\pls.exe
+D:\Visual Studio\pls\pls\obj\Debug\pls.pdb
+D:\Downloads\pls\pls\pls\bin\Debug\pls.exe.config
+D:\Downloads\pls\pls\pls\bin\Debug\pls.exe
+D:\Downloads\pls\pls\pls\bin\Debug\pls.pdb
+D:\Downloads\pls\pls\pls\obj\Debug\pls.csproj.AssemblyReference.cache
+D:\Downloads\pls\pls\pls\obj\Debug\pls.csproj.SuggestedBindingRedirects.cache
+D:\Downloads\pls\pls\pls\obj\Debug\pls.Dictionary.resources
+D:\Downloads\pls\pls\pls\obj\Debug\pls.Properties.Resources.resources
+D:\Downloads\pls\pls\pls\obj\Debug\pls.csproj.GenerateResource.cache
+D:\Downloads\pls\pls\pls\obj\Debug\pls.csproj.CoreCompileInputs.cache
+D:\Downloads\pls\pls\pls\obj\Debug\pls.exe
+D:\Downloads\pls\pls\pls\obj\Debug\pls.pdb
